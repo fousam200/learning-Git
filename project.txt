@@ -1,0 +1,2 @@
+This file was created to do a git push for a new repo created on Simpli learn lab
+for further purpose
